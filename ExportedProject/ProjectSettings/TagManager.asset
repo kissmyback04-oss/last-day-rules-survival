@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OtherPlayerCollider
+  - SelfCollider
+  - Car
+  - Jinshu1
+  - Jinshu2
+  - Shitou
+  - Boli
+  - Tudi
+  - Water
+  - Sand
+  - Wood
+  - Weiqiang
+  - Door
+  - Window
+  - grass
+  - Bullet
+  - Self
+  - tree
+  - builder
+  - zhalan
+  - road
+  - Shuini
+  - Ground
+  - Shitou2
+  - TieSiWang
+  - Tingjiping
+  - Tizi
+  - Plant
+  - effect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - SelfPlayer
+  - Enemy
+  - Player
+  - Car
+  - Gun
+  - DropItem
+  - Outline
+  - Monster
+  - Grass
+  - Ground
+  - Building
+  - Tree
+  - socket
+  - OtherPlayerCollider
+  - AimHelperBig
+  - AimHelperSmall
+  - Door
+  - Window
+  - CarForBullet
+  - FarView
+  - StopBullet
+  - Stone
+  - interaction
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
